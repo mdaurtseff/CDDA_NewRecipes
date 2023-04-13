@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "newrecipe",
+    "name": "Новые рецепты",
+    "authors": [ "m.daurtseff" ],
+    "description": "Новые рецепты для большего 'реализма'",
+    "category": "content",
+    "dependencies": [ "dda" ],
+    "version": "0.1",
+    "obsolete": false
+  }
+]
