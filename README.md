@@ -1,2 +1,2 @@
 # CDDA_NewRecipes
-Мод, добавляющий новые предметы для большего "реализма"
+A mod that adds new items for more "realism"
